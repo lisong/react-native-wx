@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIkit.h>
 
 /*! @brief 错误码
  *
